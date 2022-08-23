@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Mónica",
+        "apellido": "Geller",
+        "edad": 28
+    },
+    {
+        "nombre": "Ross",
+        "apellido": "Geller",
+        "edad": 31
+    },
+    {
+        "nombre": "Rachel",
+        "apellido": "Green",
+        "edad": 26
+    },
+    {
+        "nombre": "Joey",
+        "apellido": "Triviani",
+        "edad": 29
+    },
+    {
+        "nombre": "Phoebe",
+        "apellido": "Buffay",
+        "edad": 27
+    },
+    {
+        "nombre": "Chandler",
+        "apellido": "Bing",
+        "edad": 32
+    }
+]
